@@ -1,0 +1,14 @@
+https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools
+
+https://github.com/textstat/textstat
+
+https://www.kaggle.com/code/harshsingh2209/complete-guide-to-eda-on-text-data/notebook
+
+https://python.plainenglish.io/exploring-the-power-of-n-grams-a-comprehensive-guide-with-examples-in-python-dba6ca1fe6db
+
+https://www.linkedin.com/advice/0/what-best-nlp-tools-text-summarization-why
+
+https://www.geeksforgeeks.org/text-summarization-in-nlp/
+
+https://github.com/miso-belica/sumy
+
